@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  camunda:
+    image: registry.camunda.cloud/cambpm-ee/camunda-bpm-platform-ee:run-7.15.0-alpha3
+    ports:
+      - "8080:8080"
+    volumes:
+      - "$HOME/.camunda/license.txt:/camunda/.camunda/license.txt"
+    environment:
+      - "camunda.bpm.generic-properties.properties.initializeTelemetry=false"
+      - "camunda.bpm.generic-properties.properties.telemetryReporterActivate=false"
