@@ -1,5 +1,18 @@
 # Live Demo
 
+## Story
+
+### Teaser
+
+- Ragnar got new employee benefits
+- he registers for all insurance portals
+- one fails with "try later or call us"
+
+### At Camutual
+
+- Laura is responsible for the portal
+- Mitch is responsible for automation implementation
+
 ## Automate
 
 - start form
