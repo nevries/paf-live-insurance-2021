@@ -36,6 +36,7 @@
 
 ## Automate
 
+- change Process Name
 - start form (it's an MVP, integration wih Portal via REST later)
   - name
   - email
