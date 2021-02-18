@@ -93,7 +93,7 @@
 ## Back at Camutual
 
 - *check Cawemo, add milestone*
-- slide Jen: Roy still complains
+- slide Jen: Recap pain points
 - slide facepalm
 - *Cawemo*
 - Jen: let's inform the user whenever manual checking is needed
